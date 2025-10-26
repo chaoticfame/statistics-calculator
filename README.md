@@ -2,7 +2,7 @@
 
 A simple, clean web-based calculator for common statistical functions. This project is built with vanilla HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
-(Add a screenshot of your project here!)
+
 
 🚀 Features
 
