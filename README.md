@@ -1,10 +1,10 @@
-📊 Statistics Calculator
+# 📊 Statistics Calculator
 
 A simple, clean web-based calculator for common statistical functions. This project is built with vanilla HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
 
 
-🚀 Features
+# 🚀 Features
 
 This calculator can compute the following statistical measures for a given set of numbers:
 
@@ -24,7 +24,7 @@ Sum: The total sum of all values.
 
 Min / Max: The smallest and largest values in the dataset.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5: For the basic structure and layout of the calculator.
 
